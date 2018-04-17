@@ -1,2 +1,3 @@
 # hello-world
 My first repository!...what is a repository...
+After digesting a few words, I know what a repository is. Commits are a funny way to say save. I like it.
